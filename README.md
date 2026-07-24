@@ -101,7 +101,6 @@ The notebook trains machine learning models to classify photovoltaic system faul
 
 - Deep Learning models
 - Real-time fault monitoring
-- IoT integration
 - Web dashboard deployment
 
 ## License
